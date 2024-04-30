@@ -23,8 +23,7 @@ The HR Data Analytics Power BI Report provides valuable insights into HR-related
 
 ## Screenshots
 
-![hr-analytics-powerbi-1](https://github.com/AmishBaskaran/hr-analytics-powerbi/assets/167852107/0a1cc581-243b-42e3-9996-c05d9d49e531)
-
+![hr-analytics-powerbi-1](https://github.com/AmishBaskaran/hr-analytics-powerbi/assets/167852107/03d3289e-cd33-491b-8aa0-eeaaf4955619)
 
 ## Installation
 
